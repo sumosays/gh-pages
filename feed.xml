@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Rob Gale</title>
+    <link href="https://sumosays.github.io/gh-pages/feed.xml" rel="self" />
+    <link href="https://sumosays.github.io/gh-pages" />
+    <updated>2020-12-29T17:57:45-08:00</updated>
+    <author>
+        <name>Rob Gale</name>
+    </author>
+    <id>https://sumosays.github.io/gh-pages</id>
+
+    <entry>
+        <title>2001</title>
+        <author>
+            <name>Rob Gale</name>
+        </author>
+        <link href="https://sumosays.github.io/gh-pages/2001.html"/>
+        <id>https://sumosays.github.io/gh-pages/2001.html</id>
+            <category term="Poster"/>
+
+        <updated>2020-12-29T17:56:30-08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>The Bookworm</title>
+        <author>
+            <name>Rob Gale</name>
+        </author>
+        <link href="https://sumosays.github.io/gh-pages/the-bookworm.html"/>
+        <id>https://sumosays.github.io/gh-pages/the-bookworm.html</id>
+            <category term="Book Cover"/>
+
+        <updated>2020-12-29T17:57:18-08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>The Martian</title>
+        <author>
+            <name>Rob Gale</name>
+        </author>
+        <link href="https://sumosays.github.io/gh-pages/the-martian.html"/>
+        <id>https://sumosays.github.io/gh-pages/the-martian.html</id>
+            <category term="Book Cover"/>
+
+        <updated>2020-12-29T17:57:27-08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Ran</title>
+        <author>
+            <name>Rob Gale</name>
+        </author>
+        <link href="https://sumosays.github.io/gh-pages/ran.html"/>
+        <id>https://sumosays.github.io/gh-pages/ran.html</id>
+            <category term="Poster"/>
+
+        <updated>2020-12-29T17:57:36-08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Macbeth</title>
+        <author>
+            <name>Rob Gale</name>
+        </author>
+        <link href="https://sumosays.github.io/gh-pages/macbeth.html"/>
+        <id>https://sumosays.github.io/gh-pages/macbeth.html</id>
+            <category term="Poster"/>
+
+        <updated>2020-12-29T17:57:45-08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Killer Come Back to Me</title>
+        <author>
+            <name>Rob Gale</name>
+        </author>
+        <link href="https://sumosays.github.io/gh-pages/killer-come-back-to-me.html"/>
+        <id>https://sumosays.github.io/gh-pages/killer-come-back-to-me.html</id>
+            <category term="Interior Illustrations"/>
+
+        <updated>2020-12-29T17:56:39-08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Yojimbo</title>
+        <author>
+            <name>Rob Gale</name>
+        </author>
+        <link href="https://sumosays.github.io/gh-pages/yojimbo.html"/>
+        <id>https://sumosays.github.io/gh-pages/yojimbo.html</id>
+            <category term="Personal Project"/>
+
+        <updated>2020-12-29T17:56:16-08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Victorian Thug</title>
+        <author>
+            <name>Rob Gale</name>
+        </author>
+        <link href="https://sumosays.github.io/gh-pages/victorian-thug.html"/>
+        <id>https://sumosays.github.io/gh-pages/victorian-thug.html</id>
+            <category term="Personal Project"/>
+
+        <updated>2020-12-29T17:56:04-08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Cowboy</title>
+        <author>
+            <name>Rob Gale</name>
+        </author>
+        <link href="https://sumosays.github.io/gh-pages/cowboy.html"/>
+        <id>https://sumosays.github.io/gh-pages/cowboy.html</id>
+            <category term="Personal Project"/>
+
+        <updated>2020-12-29T17:56:23-08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Grisley</title>
+        <author>
+            <name>Rob Gale</name>
+        </author>
+        <link href="https://sumosays.github.io/gh-pages/grisley.html"/>
+        <id>https://sumosays.github.io/gh-pages/grisley.html</id>
+            <category term="Personal Project"/>
+
+        <updated>2020-12-29T17:55:56-08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://sumosays.github.io/gh-pages/sitemap.xml
